@@ -4,4 +4,4 @@ Bem-vindo ao nosso livro de receitas! Aqui você encontrará as melhores receita
 
 ## 🍳 Receitas Disponíveis
 
-- [Strogonoff de Frango](receitas/strogonoff.md)
+- [Strogonoff de Frangoooo](receitas/strogonoff.md)
