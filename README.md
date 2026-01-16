@@ -6,4 +6,6 @@ Bem-vindo ao nosso livro de receitas! Aqui você encontrará as melhores receita
 
 - [Strogonoff de Frango](receitas/strogonoff.md)
 
-- [Pavê](receitas/Pavê.md)
+- [Pavê](receitas/pave.md)
+
+- [Bolo de cenoura](receitas/bolo-de-cenoura.md)
